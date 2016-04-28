@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CalculatorTableViewController.h
 //  projectAll
 //
 //  Created by Admin on 17.04.16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CalculatorTableViewController : UITableViewController
 
 @end
-
